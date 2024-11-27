@@ -10,10 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://img.icons8.com/fluency/48/000000/domain.png" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/fluency/48/000000/facebook.png" />][facebook]
+[<img align="left" width="40px" src="https://img.icons8.com/fluency/48/000000/domain.png" />][website]
+[<img align="left" alt="LinkedIn" width="40px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
 <br /><br />
 
