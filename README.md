@@ -1,6 +1,6 @@
 ### Hi there, I'm Parikshit Singh - [Mosaic Designs][website] 👋
 
-## I'm a Full-Stack Blockchain Developer, keenly interested in trading, and a valorant player!
+## I'm a Full-Stack Blockchain Developer, keenly interested in trading!
 - 🔭 I’m currently working on a [OG-games][oggames]!
 - 🌱 I’m currently learning Rust and Anchor Programming.
 - 🥅 Goals: Getting a deep knowledge in smart contracts.
