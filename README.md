@@ -1,51 +1,91 @@
-### Hi there, I'm Parikshit Singh - [Mosaic Designs][website] 👋
+<h1 align="center">👋 Hey there, I'm <a href="https://mosaic-portfolio.vercel.app" target="_blank">Parikshit Singh</a></h1>
 
-## I'm a Full-Stack Blockchain Developer, keenly interested in trading!
-- 🔭 I’m currently working on a [OG-games][oggames]!
-- 🌱 I’m currently learning Rust and Anchor Programming.
-- 🥅 Goals: Getting a deep knowledge in smart contracts.
-- ⚡ Fun fact: I love to workout and play Football.
+<h3 align="center">💻 Senior Fullstack Engineer | ⚡ AI & Solana Developer | 🎮 Web3 Enthusiast</h3>
 
----
-
-### Connect with me:
-
-[<img align="left" width="40px" src="https://img.icons8.com/fluency/48/000000/domain.png" />][website]
-[<img align="left" alt="LinkedIn" width="40px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-
-<br /><br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/parikshit-singh-b38a59182/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/MosaicDesigns06"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
 
 ---
 
-### Languages and Tools:
+### 🧬 About Me  
 
-[<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="GraphQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][website]
-[<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="Rust" width="32px" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/rust/rust.png" />][website]
-[<img align="left" alt="Solana" width="32px" src="https://cryptologos.cc/logos/solana-sol-logo.png?v=022" />][website]
-[<img align="left" alt="Vue.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][website]
-[<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-[<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
-[<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+💼 Currently **Senior Fullstack Engineer with AI at PropertyLoop (Quantumloop)**  
+🚀 Building the future of **Web3 multiplayer gaming** at [OGGames.fun](https://www.oggames.fun)  
+🧠 Deeply exploring **Solana**, **Rust**, **Anchor**, and **AI-driven systems**  
+📈 Passionate about **trading, decentralized apps, and creator tech**
 
-<br /><br />
+> “Building scalable digital experiences that feel alive — one pixel, one packet at a time.”
 
 ---
 
-<img align="left" alt="Parikshit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=parikshitlfj12&show_icons=true&" />
+### 🧰 Tech Stack & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nestjs,nodejs,tailwind,rust,graphql,vue,python,mongodb,postgresql,git,vercel,solana" />
+</p>
 
 ---
 
-[website]: https://mosaic-portfolio.vercel.app
-[oggames]: https://www.oggames.fun
-[instagram]: https://www.instagram.com/parikshit1622
-[linkedin]: https://www.linkedin.com/in/parikshit-singh-b38a59182/
-[facebook]: https://www.facebook.com/parikshit.singh.752487/
+### 🎨 Design x Engineering  
+
+I believe in the intersection of **aesthetics and logic** — where design meets performance.  
+Crafting **dark-themed, cinematic, and high-interactivity** experiences that merge  
+frontend precision with backend power.  
+
+🧩 *“Code that feels designed, and designs that feel coded.”*
+
+---
+
+### 🕹️ Featured Project: OGGames  
+> ⚔️ Play. Bet. Win. — The first Web3 chess & coin flip platform built on **Solana**  
+
+Tech Stack:  
+`Next.js • NestJS • Web3Auth • Solana • TypeScript • WebSockets`  
+
+💠 Real-time multiplayer gameplay  
+💠 Secure on-chain bets  
+💠 Smart notifications & live rooms  
+
+🌐 [Visit OGGames](https://www.oggames.fun)
+
+---
+
+### 🤝 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/parikshit-singh-b38a59182/"><img width="36px" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/parikshit1622"><img width="36px" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
+</p>
+
+---
+
+### ⚡ GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parikshitlfj12&show_icons=true&theme=radical&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parikshitlfj12&theme=radical" height="160" />
+</p>
+
+---
+
+### 🧩 Currently Exploring  
+- 🧠 **AI x Web3** — intelligent agents for decentralized ecosystems  
+- 🧰 **Anchor + Rust** for Solana smart contracts  
+- 🎮 **Real-time multiplayer sync** via WebSockets  
+- 🌀 **System design principles** for scalable apps  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C2D91,100:00C1FF&height=120&section=footer&text=Let's%20Build%20the%20Future%20🌌&fontSize=20&fontColor=fff&animation=fadeIn" />
+</p>
+
+---
+
+[website]: https://mosaic-portfolio.vercel.app  
+[oggames]: https://www.oggames.fun  
+[instagram]: https://www.instagram.com/parikshit1622  
+[linkedin]: https://www.linkedin.com/in/parikshit-singh-b38a59182/  
+[x]: https://x.com/MosaicDesigns06
