@@ -12,7 +12,7 @@
 ### 🧬 About Me  
 
 💼 Currently **Senior Fullstack Engineer with AI at PropertyLoop (Quantumloop)**  
-🚀 Building the future of **Web3 multiplayer gaming** at [OGGames.fun](https://www.oggames.fun)  
+🚀 Build the future of **Web3 multiplayer gaming** at [OGGames.fun](https://www.oggames.fun)  
 🧠 Deeply exploring **Solana**, **Rust**, **Anchor**, and **AI-driven systems**  
 📈 Passionate about **trading, decentralized apps, and creator tech**
 
